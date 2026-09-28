@@ -1,0 +1,3 @@
+display_name: Google Flow Story Video
+short_description: Flow video clips from storyboard frames
+default_prompt: Use Google Flow to generate one consistent 8-second Veo story clip from high-resolution reference frames.

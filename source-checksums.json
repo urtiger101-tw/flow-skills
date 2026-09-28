@@ -1,0 +1,50 @@
+[
+  {
+    "path": "skills/flow-image-generator/SKILL.md",
+    "sha256": "A99065094FAE99079E3B45E671933A09857CCDD6A9839EB5BBF454FD503D0418"
+  },
+  {
+    "path": "skills/flow-image-generator/agents/openai.yaml",
+    "sha256": "2425BD78D1B56A1FCCEC3AFE54E1F19F41790585B117A2452C7C5DBC3AA1E35A"
+  },
+  {
+    "path": "skills/flow-image-generator/references/examples.md",
+    "sha256": "3A82CCFF7B52C27CBD7F2DE5EDBA6F620B3D5551C988654BDDF02A9684349F92"
+  },
+  {
+    "path": "skills/flow-video-generator/SKILL.md",
+    "sha256": "6478EF77991D0233DE11E9ADC7E35C97981FA31FED071E11FE0A123D52EAD196"
+  },
+  {
+    "path": "skills/flow-video-generator/agents/openai.yaml",
+    "sha256": "DC1479A79DE8EA1E3B5AFA7F6BFAC9F0E9E643D554E45A81BE21DAFCA84D72FE"
+  },
+  {
+    "path": "skills/flow-video-generator/references/examples.md",
+    "sha256": "B5C15F7E68ABA2B7878645037E3268847B68F4E6E337DD5A463E0C1682A35580"
+  },
+  {
+    "path": "skills/flow-music-generator/SKILL.md",
+    "sha256": "934B6288C372EA89171DC29ED36E66D93F017C00B42D3157579EE16A547F73EE"
+  },
+  {
+    "path": "skills/flow-music-generator/agents/openai.yaml",
+    "sha256": "CA4001AD2F496F2BFD87FB0AA2B144CE3381D09DD021C113A0310ECCC9B0B471"
+  },
+  {
+    "path": "skills/flow-music-generator/references/examples.md",
+    "sha256": "3F44866C5BE9229963C769553DCFA0FEE8949D0DA59681AB4D978E73F410D7AE"
+  },
+  {
+    "path": "skills/google-flow-story-video/SKILL.md",
+    "sha256": "EAC1EDFC141158266420DC78A89F83821B773AE4BA459995AACFCB7D3A43A00C"
+  },
+  {
+    "path": "skills/google-flow-story-video/agents/openai.yaml",
+    "sha256": "F9D13BF0CC68F2376A9DAC47711BDA6DCC2D0E9FFBFD3BCB12251F94954680CA"
+  },
+  {
+    "path": "skills/google-flow-story-video/references/prompt-structure.md",
+    "sha256": "17ACD3FB002BE236C76D42AD5FBE243BCB1E6D537B08F2D9BCF8DCE12131FDD5"
+  }
+]

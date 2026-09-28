@@ -1,0 +1,3 @@
+interface:
+  display_name: "Google Flow 影片生成"
+  short_description: "用 Flow 生成並驗證影片"
